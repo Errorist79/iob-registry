@@ -1,0 +1,15 @@
+{
+  "team name": "Testnet.run",
+  "contact": {
+    "website" : "https://stake.testnet.run",
+    "github": "https://github.com/testnetrunn",
+    "telegram": "https://t.me/testnetrun",
+    "twitter": "https://twitter.com/testnetrun",
+    "medium": "https://blog.testnet.run",
+    "discord": ""
+  },
+  "introduction": [
+    "Testnet.run is an independent organization of validators, builders, network contributors and community builders.",
+    "We focus on educating members about blockchain while helping those blockchain networks further develop testnets.  We do it accomplished with Youtube content and written materials etc..."
+  ]
+}
